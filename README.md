@@ -74,6 +74,7 @@ valid
 
 Copy from the dataset_M_Radar-main\Images the images from 002501.jpg to 002950.jpg to the images subfolder
 
+
 In the file dataset_M_Radar-main\Annotations select all the .txt files and copy to the labels subfolder from file 2501. txt to 2950.txt
 
 5- In the data.yaml file, in the first 3 lines, there are the absolute addresses of the train, valid and test folders, assuming that the project folder is in the c: directory, if not, these absolute addresses need to be changed.
