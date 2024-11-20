@@ -57,9 +57,9 @@ modified due to that the .xml files to be processed did not include information 
 
 train
 
-  images
+     images
   
-  labels
+     labels
 
 Copy from dataset_M_Radar-main\Images to the images subfolder the first 2500 images
 In dataset_M_Radar-main\Annotations select all the .txt files and copy the first 2500 .txt files to the labels subfolder
@@ -68,9 +68,9 @@ In dataset_M_Radar-main\Annotations select all the .txt files and copy the first
 
 valid
 
-  images
+     images
   
-  labels
+     labels
 
 Copy from the dataset_M_Radar-main\Images the images from 002501.jpg to 002950.jpg to the images subfolder
 
