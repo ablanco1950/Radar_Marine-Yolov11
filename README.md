@@ -21,7 +21,9 @@ Perform an evaluation of the model by running:
 
 EvaluateTESTRAdarMarine_Yolov11.py
 
-which acts on a test of 50 images. The images that need to be closed in order to continue with the next one appear in succession.
+which acts on a test of 50 images.
+
+The images need to be closed in order to continue with the next one appear in succession.
 
 In the images, small green squares appear that indicate the labeled targets, above them a sign appears with “ Detect” and a number indicating the probability with which they have been detected. If a red square appears with the label “detect”, it indicates a false positive, a target has been detected that has not been labeled as such and the number does not appear. corresponding green box that overlaps the red box.
 
