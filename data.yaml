@@ -1,0 +1,8 @@
+train: C:\Radar_Marine-Yolov11\train\images
+val: C:\Radar_Marine-Yolov11\valid\images
+test: C:\Radar_Marine-Yolov11\test\images
+
+
+nc: 1
+names: ['Detect']
+
