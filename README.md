@@ -56,7 +56,9 @@ modified due to that the .xml files to be processed did not include information 
 3- Next, you must create a folder structure in the project directory in the form:
 
 train
+
   images
+  
   labels
 
 Copy from dataset_M_Radar-main\Images to the images subfolder the first 2500 images
@@ -65,7 +67,9 @@ In dataset_M_Radar-main\Annotations select all the .txt files and copy the first
 4- Next you have to create a folder structure in the project directory in which form:
 
 valid
+
   images
+  
   labels
 
 Copy from the dataset_M_Radar-main\Images the images from 002501.jpg to 002950.jpg to the images subfolder
