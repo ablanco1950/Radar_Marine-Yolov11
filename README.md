@@ -31,7 +31,7 @@ https://github.com/ablanco1950/Radar_Marine-Yolov11/blob/main/Figure_1.png
 
 ![Fig1](https://github.com/ablanco1950/Radar_Marine-Yolov11/blob/main/Figure_1.png)
 
-The coordinates of the detected targets appear on the console (in the image).
+The coordinates of the detected targets appear on the console.
 
 The evaluation was carried out with an optimized model last3epoch-LR0005-216Detections.pt
 
