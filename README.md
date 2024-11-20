@@ -25,7 +25,7 @@ which acts on a test of 50 images.
 
 The images need to be closed in order to continue with the next one appear in succession.
 
-In the images, small green squares appear that indicate the labeled targets, above them a sign appears with “ Detect” and a number indicating the probability with which they have been detected. If a red square appears with the label “detect”, it indicates a false positive, a target has been detected that has not been labeled as such and the number does not appear. corresponding green box that overlaps the red box.
+In the images, small green squares appear that indicate the labeled targets, above them a sign appears with “Detect” and a number indicating the probability with which they have been detected. If a red square appears with the label “detect”, it indicates a false positive, a target that has been detected but has not been labeled as such. If there is square green with not "Detect" is an undetected target.
 
 https://github.com/ablanco1950/Radar_Marine-Yolov11/blob/main/Figure_1.png
 
