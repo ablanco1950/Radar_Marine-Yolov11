@@ -3,7 +3,11 @@ Essay to detect targets in images obtained by radar. Use the images provided by 
 
 Installation.
 
-To avoid incompatibilities with other versions of yolo, install ultralytics in a new environment (you can easily create a new environment if you have the Anaconda development environment). Once the new environment is created, run in it: pip install ultralytics There may be incompatibilities with the installed version of numpy, so you should downgrade it;
+To avoid incompatibilities with other versions of yolo, install ultralytics in a new environment (you can easily create a new environment if you have the Anaconda development environment). Once the new environment is created, run in it:
+
+pip install ultralytics
+
+There may be incompatibilities with the installed version of numpy, so you should downgrade it;
 
 pip install numpy==1.23
 
