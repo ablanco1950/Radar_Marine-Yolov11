@@ -86,7 +86,7 @@ python TrainYolov11RadarMarine.py
 The models obtained with each epoch are stored in the address:
 Radar_Marine-Yolov11\runs\train\exp\weights
 
-The best results are achieved in the first epoch, there being no relationship between the mAP and the results real.
+The best results are achieved in few epochs, there being no relationship between the mAP and the results real.
 
 References:
 
