@@ -43,7 +43,7 @@ You get a folder named dataset_M_Radar-main in which the Annotations and Images 
 
 2- In the Annotations folder the labels come in xml format instead of in .txt format
 
-To convert .xml files to .txt, copy the attached convert program to the Annotations subfolder and run it in that subfolder.
+To convert .xml files to .txt, copy the attached convert.py program to the Annotations subfolder and run it in that subfolder.
 
 python convert.py
 
