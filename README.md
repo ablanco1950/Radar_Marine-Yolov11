@@ -37,7 +37,7 @@ The evaluation was carried out with an optimized model: last3epoch-LR0005-216Det
 
 The following steps were followed to obtain the model:
 
-1- Download the project https:/ /github.com/kz258852/dataset_M_Radar to disk and unzip the zip.
+1- Download the project https://github.com/kz258852/dataset_M_Radar to disk and unzip the zip.
 
 You get a folder named dataset_M_Radar-main in which the Annotations and Images folders are placed.
 
