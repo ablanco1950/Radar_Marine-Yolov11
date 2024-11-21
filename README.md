@@ -33,7 +33,7 @@ https://github.com/ablanco1950/Radar_Marine-Yolov11/blob/main/Figure_1.png
 
 The coordinates of the detected targets appear on the console.
 
-The evaluation was carried out with an optimized model last3epoch-LR0005-216Detections.pt
+The evaluation was carried out with an optimized model: last3epoch-LR0005-216Detections.pt
 
 The following steps were followed to obtain the model:
 
